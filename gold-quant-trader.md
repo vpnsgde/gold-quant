@@ -1,4 +1,4 @@
-# Roadmap trở thành Gold CFD Quant Trader
+# Trở thành Gold CFD Quant Trader
 
 ## 1. Kiến thức nền tảng (Foundation)
 - Hiểu rõ **thị trường CFD**: cơ chế khớp lệnh, spread, swap, margin, đòn bẩy, rủi ro counterparty.  
@@ -70,7 +70,7 @@
 ---
 
 
-# Roadmap trở thành Gold CFD Quant Trader
+# Roadmap
 
 
 ## Tổng quan 6 pha

@@ -1,0 +1,7 @@
+2025-08-28 14:55:20,303 [INFO] Loading data from dataset/xauusd_5m.csv
+2025-08-28 14:55:21,072 [INFO] Loaded 1354003 rows
+2025-08-28 14:55:21,074 [INFO] Using last 100000 rows for estimation.
+2025-08-28 14:55:21,076 [INFO] Estimated drift (mu)=0.000003, volatility (sigma)=0.000496
+2025-08-28 14:55:21,076 [INFO] Running Monte Carlo GBM with 1000 paths, 50 steps.
+2025-08-28 14:55:21,080 [INFO] Forecast saved to tmp/forecast_gbm_mc.csv
+2025-08-28 14:55:30,858 [INFO] Script finished.
